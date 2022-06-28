@@ -1,0 +1,14 @@
+﻿  Autodromo.cpp
+  Campeonato.cpp
+  Carro.cpp
+  DirecaoGeralViacao.cpp
+  Garagem.cpp
+  Interface.cpp
+  Main.cpp
+  Piloto.cpp
+  Pista.cpp
+  Simulacao.cpp
+  Generating Code...
+C:\Users\jfbug.LAPTOP-M5U88NV6\Documents\Francisco\Universidade\Programação Orientada a Objetos\Trabalho Prático\TrabalhoPratico\TrabalhoPratico\Garagem.cpp(8,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jfbug.LAPTOP-M5U88NV6\Documents\Francisco\Universidade\Programação Orientada a Objetos\Trabalho Prático\TrabalhoPratico\TrabalhoPratico\Interface.cpp(31): warning C4715: 'Interface::simular': not all control paths return a value
+  TrabalhoPratico.vcxproj -> C:\Users\jfbug.LAPTOP-M5U88NV6\Documents\Francisco\Universidade\Programação Orientada a Objetos\Trabalho Prático\TrabalhoPratico\Debug\TrabalhoPratico.exe
